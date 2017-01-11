@@ -6,7 +6,7 @@ The original project is [webogram](https://github.com/zhukov/webogram) written b
 
 ## Deploy
 
-First of all, you need to apply an applocation on [my.telegram.org](https://my.telegram.org), and get your own `API_ID` and `API_HASH`.
+First of all, you need to apply an application on [my.telegram.org](https://my.telegram.org), and get your own `API_ID` and `API_HASH`.
 
 Because the project is build of docker, you should [install docker](https://docs.docker.com/engine/installation/) before running the following command:
 
