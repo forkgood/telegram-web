@@ -2,7 +2,7 @@
 
 Telegram Web is a self-hosted Telegram Web Client.
 
-The original project is [webogram](https://github.com/zhukov/webogram) written by zhukov.
+The original project [webogram](https://github.com/zhukov/webogram) is written by zhukov.
 
 ## Deploy
 
